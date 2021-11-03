@@ -15,6 +15,8 @@
   <img align="center" alt="CoNnEcT-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="CoNnEcT-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="CoNnEcT-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="CoNnEcT-ReactNative" height="30" width"40" src="https://relato.com.br/img/react.svg">
+  <img align="center" alt="CoNnEcT-TypeScript" height="30" width"40" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
   <img align="right" alt="CoNnEcT-Photo" height="140" width="140" src="https://cdn.discordapp.com/attachments/585335622206750723/881855254885453854/oie_IvcFpjRXvHlj.gif"
 </div>
 
