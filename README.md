@@ -30,6 +30,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -52,15 +53,35 @@
 
 - 📂 Construir um **portfólio sólido**
 - 🧪 Aprender, testar e evoluir constantemente
-- 🕹️ Criar projetos envolvendo **UI, UX e jogos**
+- 🕹️ Criar projetos envolvendo **UI, UX, jogos e Backend**
 - 🌍 Compartilhar conhecimento e projetos open source
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 💼 Perfil Profissional
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoNnEcT500BR&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoNnEcT500BR&layout=compact&theme=tokyonight)
+Sou desenvolvedor **Full Stack** com **foco em Frontend**, experiência na construção de interfaces modernas, aplicações web e mobile, além de APIs REST e comunicação em tempo real.
+
+Tenho familiaridade com todo o ciclo de desenvolvimento de software, desde a concepção da interface até a integração com backend e banco de dados, sempre buscando código limpo, escalável e boa experiência do usuário.
+
+### Principais competências
+
+- Desenvolvimento de interfaces com **HTML, CSS, JavaScript e TypeScript**
+- Aplicações **React** e **React Native**
+- Integração com APIs REST
+- Desenvolvimento backend com **Node.js** e **Express**
+- Comunicação em tempo real com **Socket.io**
+- Modelagem e integração com bancos de dados **MySQL**
+- Uso de ORMs como **Prisma** e **Sequelize**
+- Versionamento de código com **Git e GitHub**
+
+### Como utilizo este GitHub
+
+- 📁 Portfólio de projetos pessoais e acadêmicos
+- 🧪 Repositórios de estudo e experimentação
+- 🌐 APIs e serviços backend
+- 💻 Aplicações web
+- 📱 Aplicações mobile
 
 ---
 
