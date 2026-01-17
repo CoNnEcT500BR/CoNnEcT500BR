@@ -88,7 +88,7 @@ Tenho familiaridade com todo o ciclo de desenvolvimento de software, desde a con
 ## 📫 Contato
 
 📧 **E-mail:** diego.pcaldi@gmail.com  
-💼 **LinkedIn:** [https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/diego-pampuche-848983215/)
+💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/diego-pampuche-848983215/)
 
 ---
 
